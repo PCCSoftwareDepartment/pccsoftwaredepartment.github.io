@@ -1,0 +1,16 @@
+.gradient-blue-dark {
+    background-image: radial-gradient(circle farthest-corner at 12.3% 19.3%, rgba(2, 27, 121, 1) 0%, rgba(5, 118, 230, 1) 100.2%);
+}
+
+.gradient-green-dark {
+    background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(59, 183, 144, 1) 0%, rgba(11, 171, 100, 0.66) 76.9%);
+}
+
+.circle-image-border {
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+.circle-image {
+    border-radius: 50%;
+}
